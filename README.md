@@ -14,9 +14,9 @@ A responsive and modern **Gym Landing Page** built using **HTML** and **CSS**. T
   - Trainers/team section
   - Contact form / CTA
 
-## 📸 Preview
+## 🌐 Live Demo
 
-parvgym.netlify.app
+[View Live Demo](https://parvgym.netlify.app)
 
 ## 🛠️ Technologies Used
 
@@ -24,15 +24,4 @@ parvgym.netlify.app
 - CSS3 (Flexbox, Grid, Media Queries)
 - Google Fonts
 - Font Awesome / Icon library (if used)
-
-## 📁 Project Structure
-├── index.html
-├── style.css
-├── images/
-│ └── (all images used)
-└── README.md
-
----
-
-Let me know if you'd like to include animations, forms, or any special features in the README! Would you like me to generate a screenshot banner or help with the live demo deployment too?
 
